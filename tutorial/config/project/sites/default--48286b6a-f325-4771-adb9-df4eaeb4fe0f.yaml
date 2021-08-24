@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: dbpatnode
+primary: true
+siteGroup: 847f5542-01b9-4a55-b87d-ba5886ade6ee # dbpatnode
+sortOrder: 1

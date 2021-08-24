@@ -1,0 +1,31 @@
+dateModified: 1629834962
+email:
+  fromEmail: dbpatnode@gmail.com
+  fromName: dbpatnode
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    5bea34ae-f93b-4f25-a21a-dc714b93519f: Common # Common
+    847f5542-01b9-4a55-b87d-ba5886ade6ee: dbpatnode # dbpatnode
+    48286b6a-f325-4771-adb9-df4eaeb4fe0f: dbpatnode # dbpatnode
+plugins:
+  react:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  scss:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: dbpatnode
+  schemaVersion: 3.7.7
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
